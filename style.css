@@ -1,5 +1,7 @@
 body {
   background-color: #ffe6eb;
+  background-image: url(images/strawberry.jpg);
+
   color: #8b0000;
   font-family: Arial, sans-serif;
   padding: 2rem;
@@ -42,7 +44,7 @@ input {
 button {
   margin-top: 1.5rem;
   padding: 0.7rem 1.2rem;
-  background-color: #ff5c8d;
+  background-color: #5c9dff;
   color: white;
   border: none;
   border-radius: 6px;
@@ -50,7 +52,7 @@ button {
 }
 
 button:hover {
-  background-color: #e64a74;
+  background-color: #468af1;
 }
 
 #statusMessage {
